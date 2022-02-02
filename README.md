@@ -1,4 +1,4 @@
-# Completed React Auth
+# Complete React Auth
 
 - React JS Form Validation | Axios User Registration Form Submit [links](https://www.youtube.com/watch?v=brcHK3P6ChQ)
 - React User Login and Authentication form with Axios request submission [links](https://www.youtube.com/watch?v=X3qyxo_UTR4)
